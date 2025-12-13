@@ -15,4 +15,4 @@ resources:
 images:
   - name: guestbook
     newName: ghcr.io/mehdiabdelmou/guestbook-gitops
-    newTag: main-ec215ac
+    newTag: main-a7e1d4d
