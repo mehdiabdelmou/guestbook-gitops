@@ -1,5 +1,5 @@
 """
-A simple guestbook flask app..
+A simple guestbook flask app...
 """
 import flask
 from index import Index
